@@ -9,7 +9,15 @@ package warmup2
  */
 
 fun main() {
-
+    println(countXX("abcxx"))
+    println(countXX("xxx"))
+    println(countXX("xxxx"))
 }
 
-fun countXX(str: String): Int 
+fun countXX(str: String): Int {
+    var xxCount: Int = 0
+    for (i in 0 until str.length-1) {
+        if (str.substring(i, i+2).equals("xx")) xxCount++
+    }
+    return xxCount
+}

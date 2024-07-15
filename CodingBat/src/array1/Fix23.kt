@@ -1,0 +1,24 @@
+package array1
+
+/*
+Given an int array length 3, if there is a 2 in the array immediately followed by a 3,
+set the 3 element to 0. Return the changed array.
+
+fix23([1, 2, 3]) → [1, 2, 0]
+fix23([2, 3, 5]) → [2, 0, 5]
+fix23([1, 2, 1]) → [1, 2, 1]
+ */
+
+fun main() {
+    println(fix23(arrayOf(1, 2, 3)).contentToString())
+    println(fix23(arrayOf(2, 3, 5)).contentToString())
+    println(fix23(arrayOf(1, 2, 1)).contentToString())
+}
+
+fun fix23(nums: Array<Int>): Array<Int> {
+    if (nums[0] == 2 && nums[1] == 3)
+        nums[1] = 0
+    else if (nums[1] == 2 && nums[2] == 3)
+        nums[2] = 0
+    return nums
+}

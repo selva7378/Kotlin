@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="13b2b07a-6647-4fc2-9f70-2b13ede769e6" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../ClassesAndObjects/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ClassesAndObjects/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ClassesAndObjects/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ClassesAndObjects/.idea/kotlinc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ClassesAndObjects/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ClassesAndObjects/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ClassesAndObjects/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ClassesAndObjects/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ClassesAndObjects/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ClassesAndObjects/ClassesAndObjects.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ClassesAndObjects/src/Main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CodingBat/src/warmup2/CountXX.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../CodingBat/src/warmup2/CountXX.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Collections/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Collections/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Collections/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Collections/.idea/kotlinc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Collections/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Collections/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Collections/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Collections/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Collections/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Collections/Collections.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Collections/src/Arrays.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Collections/src/List.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Collections/src/Map.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Collections/src/Sets.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FunctionTypesAndLambdas/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FunctionTypesAndLambdas/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FunctionTypesAndLambdas/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FunctionTypesAndLambdas/.idea/kotlinc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FunctionTypesAndLambdas/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FunctionTypesAndLambdas/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FunctionTypesAndLambdas/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FunctionTypesAndLambdas/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FunctionTypesAndLambdas/FunctionTypesAndLambdas.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FunctionTypesAndLambdas/src/Main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FunctionTypesAndLambdas/src/practice/FoldablePhones.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FunctionTypesAndLambdas/src/practice/InternetProfile.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FunctionTypesAndLambdas/src/practice/MobileNotifications.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FunctionTypesAndLambdas/src/practice/MovieTicketPrice.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FunctionTypesAndLambdas/src/practice/SongCatalog.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FunctionTypesAndLambdas/src/practice/SpecialAuction.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FunctionTypesAndLambdas/src/practice/TemperatureConverter.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Generics/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Generics/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Generics/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Generics/.idea/kotlinc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Generics/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Generics/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Generics/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Generics/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Generics/Generics.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Generics/src/Question.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HOFwCollection/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HOFwCollection/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HOFwCollection/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HOFwCollection/.idea/kotlinc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HOFwCollection/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HOFwCollection/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HOFwCollection/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HOFwCollection/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HOFwCollection/HOFwCollection.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HOFwCollection/src/HfCollection.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PracticeCollection/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PracticeCollection/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PracticeCollection/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PracticeCollection/.idea/kotlinc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PracticeCollection/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PracticeCollection/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PracticeCollection/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PracticeCollection/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PracticeCollection/PracticeCollection.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PracticeCollection/src/PracticeCollection.kt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2iSn9Hnm6E5ejnR2jSTgt2fGQGs" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Gradle.Build coroutines.executor": "Run",
+    "Kotlin.AsynchronousKt.executor": "Run",
+    "Kotlin.CoroutinesKt.executor": "Run",
+    "Kotlin.DispatcherKt.executor": "Run",
+    "Kotlin.SynchronousKt.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  },
+  "keyToStringList": {
+    "kotlin-gradle-user-dirs": [
+      "/Users/selvaganesh/.gradle"
+    ]
+  }
+}]]></component>
+  <component name="RunManager" selected="Kotlin.DispatcherKt">
+    <configuration name="AsynchronousKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AsynchronousKt" />
+      <module name="coroutines.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DispatcherKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DispatcherKt" />
+      <module name="coroutines.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SynchronousKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SynchronousKt" />
+      <module name="coroutines.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.DispatcherKt" />
+        <item itemvalue="Kotlin.AsynchronousKt" />
+        <item itemvalue="Kotlin.SynchronousKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="13b2b07a-6647-4fc2-9f70-2b13ede769e6" name="Changes" comment="" />
+      <created>1719492692869</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1719492692869</updated>
+    </task>
+    <servers />
+  </component>
+</project>
